@@ -1,0 +1,1 @@
+(self.webpackChunkbeem_africa=self.webpackChunkbeem_africa||[]).push([[917],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/BeemAfrica/blog/welcome"},{"title":"Hello","permalink":"/BeemAfrica/blog/hello-world"},{"title":"Hola","permalink":"/BeemAfrica/blog/hola"}]}')}}]);

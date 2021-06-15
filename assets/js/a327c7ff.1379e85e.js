@@ -1,0 +1,1 @@
+(self.webpackChunkbeem_africa=self.webpackChunkbeem_africa||[]).push([[375],{6506:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/BeemAfrica/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/BeemAfrica/blog/tags/docusaurus"}')}}]);
