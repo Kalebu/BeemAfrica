@@ -1,0 +1,30 @@
+{
+  "facebook": {
+    "allTagsPath": "/BeemAfrica/blog/tags",
+    "slug": "facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/BeemAfrica/blog/tags/facebook"
+  },
+  "hello": {
+    "allTagsPath": "/BeemAfrica/blog/tags",
+    "slug": "hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/BeemAfrica/blog/tags/hello"
+  },
+  "docusaurus": {
+    "allTagsPath": "/BeemAfrica/blog/tags",
+    "slug": "docusaurus",
+    "name": "docusaurus",
+    "count": 3,
+    "permalink": "/BeemAfrica/blog/tags/docusaurus"
+  },
+  "hola": {
+    "allTagsPath": "/BeemAfrica/blog/tags",
+    "slug": "hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/BeemAfrica/blog/tags/hola"
+  }
+}

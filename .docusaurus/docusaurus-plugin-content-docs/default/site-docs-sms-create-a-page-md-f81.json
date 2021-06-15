@@ -1,0 +1,26 @@
+{
+  "unversionedId": "SMS/create-a-page",
+  "id": "SMS/create-a-page",
+  "isDocsHomePage": false,
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/SMS/create-a-page.md",
+  "sourceDirName": "SMS",
+  "slug": "/SMS/create-a-page",
+  "permalink": "/BeemAfrica/docs/SMS/create-a-page",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SMS/create-a-page.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/BeemAfrica/docs/intro"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/BeemAfrica/docs/SMS/create-a-document"
+  }
+}

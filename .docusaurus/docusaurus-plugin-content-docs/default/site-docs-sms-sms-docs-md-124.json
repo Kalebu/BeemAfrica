@@ -1,0 +1,19 @@
+{
+  "unversionedId": "SMS/sms-docs",
+  "id": "SMS/sms-docs",
+  "isDocsHomePage": false,
+  "title": "sms-docs",
+  "description": "",
+  "source": "@site/docs/SMS/sms-docs.md",
+  "sourceDirName": "SMS",
+  "slug": "/SMS/sms-docs",
+  "permalink": "/BeemAfrica/docs/SMS/sms-docs",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SMS/sms-docs.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/BeemAfrica/docs/intro"
+  }
+}

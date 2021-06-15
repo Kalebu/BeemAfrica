@@ -1,0 +1,26 @@
+{
+  "unversionedId": "SMS/markdown-features",
+  "id": "SMS/markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/SMS/markdown-features.mdx",
+  "sourceDirName": "SMS",
+  "slug": "/SMS/markdown-features",
+  "permalink": "/BeemAfrica/docs/SMS/markdown-features",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SMS/markdown-features.mdx",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/BeemAfrica/docs/SMS/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/BeemAfrica/docs/SMS/deploy-your-site"
+  }
+}

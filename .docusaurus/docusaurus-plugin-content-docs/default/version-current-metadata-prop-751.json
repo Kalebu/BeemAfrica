@@ -1,0 +1,18 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/BeemAfrica/docs/intro"
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/BeemAfrica/docs/intro": "tutorialSidebar"
+  }
+}

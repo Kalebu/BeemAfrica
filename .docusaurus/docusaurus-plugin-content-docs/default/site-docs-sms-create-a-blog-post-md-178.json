@@ -1,0 +1,26 @@
+{
+  "unversionedId": "SMS/create-a-blog-post",
+  "id": "SMS/create-a-blog-post",
+  "isDocsHomePage": false,
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/SMS/create-a-blog-post.md",
+  "sourceDirName": "SMS",
+  "slug": "/SMS/create-a-blog-post",
+  "permalink": "/BeemAfrica/docs/SMS/create-a-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SMS/create-a-blog-post.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/BeemAfrica/docs/SMS/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/BeemAfrica/docs/SMS/markdown-features"
+  }
+}

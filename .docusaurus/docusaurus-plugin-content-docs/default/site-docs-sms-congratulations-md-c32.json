@@ -1,0 +1,22 @@
+{
+  "unversionedId": "SMS/congratulations",
+  "id": "SMS/congratulations",
+  "isDocsHomePage": false,
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/SMS/congratulations.md",
+  "sourceDirName": "SMS",
+  "slug": "/SMS/congratulations",
+  "permalink": "/BeemAfrica/docs/SMS/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/SMS/congratulations.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/BeemAfrica/docs/SMS/deploy-your-site"
+  }
+}

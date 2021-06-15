@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/BeemAfrica/blog/welcome"
+    },
+    {
+      "title": "Hello",
+      "permalink": "/BeemAfrica/blog/hello-world"
+    },
+    {
+      "title": "Hola",
+      "permalink": "/BeemAfrica/blog/hola"
+    }
+  ]
+}

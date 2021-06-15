@@ -1,0 +1,22 @@
+{
+  "unversionedId": "AirTime/translate-your-site",
+  "id": "AirTime/translate-your-site",
+  "isDocsHomePage": false,
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/AirTime/translate-your-site.md",
+  "sourceDirName": "AirTime",
+  "slug": "/AirTime/translate-your-site",
+  "permalink": "/BeemAfrica/docs/AirTime/translate-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/AirTime/translate-your-site.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/BeemAfrica/docs/AirTime/manage-docs-versions"
+  }
+}
