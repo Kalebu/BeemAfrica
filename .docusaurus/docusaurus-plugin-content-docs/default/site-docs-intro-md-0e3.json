@@ -2,8 +2,8 @@
   "unversionedId": "intro",
   "id": "intro",
   "isDocsHomePage": false,
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Getting started",
+  "description": "Beem Africa is telecom company that offers APIs to tons of services not limited to SMS, USSD, Number Verification, Airtime & Mobile Payments to connect with your customers easily.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -14,5 +14,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "SMS",
+    "permalink": "/BeemAfrica/docs/SMS"
+  }
 }

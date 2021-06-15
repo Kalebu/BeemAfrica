@@ -1,0 +1,26 @@
+{
+  "unversionedId": "USSD",
+  "id": "USSD",
+  "isDocsHomePage": false,
+  "title": "USSD",
+  "description": "",
+  "source": "@site/docs/USSD.md",
+  "sourceDirName": ".",
+  "slug": "/USSD",
+  "permalink": "/BeemAfrica/docs/USSD",
+  "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/USSD.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AirTime",
+    "permalink": "/BeemAfrica/docs/AirTime"
+  },
+  "next": {
+    "title": "Two way SMS",
+    "permalink": "/BeemAfrica/docs/Two-way-sms"
+  }
+}

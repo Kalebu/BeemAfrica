@@ -1,0 +1,26 @@
+{
+  "unversionedId": "SMS",
+  "id": "SMS",
+  "isDocsHomePage": false,
+  "title": "SMS",
+  "description": "",
+  "source": "@site/docs/SMS.md",
+  "sourceDirName": ".",
+  "slug": "/SMS",
+  "permalink": "/BeemAfrica/docs/SMS",
+  "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/SMS.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/BeemAfrica/docs/intro"
+  },
+  "next": {
+    "title": "OTP",
+    "permalink": "/BeemAfrica/docs/OTP"
+  }
+}

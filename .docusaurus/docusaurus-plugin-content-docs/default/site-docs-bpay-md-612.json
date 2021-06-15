@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Bpay",
+  "id": "Bpay",
+  "isDocsHomePage": false,
+  "title": "Bpay",
+  "description": "",
+  "source": "@site/docs/Bpay.md",
+  "sourceDirName": ".",
+  "slug": "/Bpay",
+  "permalink": "/BeemAfrica/docs/Bpay",
+  "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/Bpay.md",
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Two way SMS",
+    "permalink": "/BeemAfrica/docs/Two-way-sms"
+  },
+  "next": {
+    "title": "Contacts",
+    "permalink": "/BeemAfrica/docs/Contacts"
+  }
+}

@@ -1,20 +1,20 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Beem Africa-Python client',
+  title: 'Beem Africa',
   tagline: 'beem-africa integration made easy',
   url: 'https://kalebu.github.io',
   baseUrl: '/BeemAfrica/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/beem.ico',
   organizationName: 'kalebu', // Usually your GitHub org/user name.
   projectName: 'BeemAfrica', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'BeemAfrica',
+      title: 'Home',
       logo: {
         alt: 'Logo',
-        src: 'img/logo.svg',
+        src: 'img/download.png',
       },
       items: [
         {
@@ -25,7 +25,7 @@ module.exports = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/kalebu/python-client',
+          href: 'https://github.com/beem-africa/python-client',
           label: 'GitHub',
           position: 'right',
         },
@@ -91,7 +91,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/Kalebu/BeemAfrica/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

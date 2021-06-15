@@ -1,0 +1,26 @@
+{
+  "unversionedId": "OTP",
+  "id": "OTP",
+  "isDocsHomePage": false,
+  "title": "OTP",
+  "description": "",
+  "source": "@site/docs/OTP.md",
+  "sourceDirName": ".",
+  "slug": "/OTP",
+  "permalink": "/BeemAfrica/docs/OTP",
+  "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/OTP.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SMS",
+    "permalink": "/BeemAfrica/docs/SMS"
+  },
+  "next": {
+    "title": "AirTime",
+    "permalink": "/BeemAfrica/docs/AirTime"
+  }
+}

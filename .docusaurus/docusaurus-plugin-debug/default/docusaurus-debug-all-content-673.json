@@ -19,19 +19,128 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "SMS"
+              },
+              {
+                "type": "doc",
+                "id": "OTP"
+              },
+              {
+                "type": "doc",
+                "id": "AirTime"
+              },
+              {
+                "type": "doc",
+                "id": "USSD"
+              },
+              {
+                "type": "doc",
+                "id": "Two-way-sms"
+              },
+              {
+                "type": "doc",
+                "id": "Bpay"
+              },
+              {
+                "type": "doc",
+                "id": "Contacts"
               }
             ]
           },
           "permalinkToSidebar": {
-            "/BeemAfrica/docs/intro": "tutorialSidebar"
+            "/BeemAfrica/docs/AirTime": "tutorialSidebar",
+            "/BeemAfrica/docs/Bpay": "tutorialSidebar",
+            "/BeemAfrica/docs/Contacts": "tutorialSidebar",
+            "/BeemAfrica/docs/intro": "tutorialSidebar",
+            "/BeemAfrica/docs/OTP": "tutorialSidebar",
+            "/BeemAfrica/docs/SMS": "tutorialSidebar",
+            "/BeemAfrica/docs/Two-way-sms": "tutorialSidebar",
+            "/BeemAfrica/docs/USSD": "tutorialSidebar"
           },
           "docs": [
+            {
+              "unversionedId": "AirTime",
+              "id": "AirTime",
+              "isDocsHomePage": false,
+              "title": "AirTime",
+              "description": "",
+              "source": "@site/docs/AirTime.md",
+              "sourceDirName": ".",
+              "slug": "/AirTime",
+              "permalink": "/BeemAfrica/docs/AirTime",
+              "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/AirTime.md",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OTP",
+                "permalink": "/BeemAfrica/docs/OTP"
+              },
+              "next": {
+                "title": "USSD",
+                "permalink": "/BeemAfrica/docs/USSD"
+              }
+            },
+            {
+              "unversionedId": "Bpay",
+              "id": "Bpay",
+              "isDocsHomePage": false,
+              "title": "Bpay",
+              "description": "",
+              "source": "@site/docs/Bpay.md",
+              "sourceDirName": ".",
+              "slug": "/Bpay",
+              "permalink": "/BeemAfrica/docs/Bpay",
+              "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/Bpay.md",
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Two way SMS",
+                "permalink": "/BeemAfrica/docs/Two-way-sms"
+              },
+              "next": {
+                "title": "Contacts",
+                "permalink": "/BeemAfrica/docs/Contacts"
+              }
+            },
+            {
+              "unversionedId": "Contacts",
+              "id": "Contacts",
+              "isDocsHomePage": false,
+              "title": "Contacts",
+              "description": "",
+              "source": "@site/docs/Contacts.md",
+              "sourceDirName": ".",
+              "slug": "/Contacts",
+              "permalink": "/BeemAfrica/docs/Contacts",
+              "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/Contacts.md",
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bpay",
+                "permalink": "/BeemAfrica/docs/Bpay"
+              }
+            },
             {
               "unversionedId": "intro",
               "id": "intro",
               "isDocsHomePage": false,
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "Getting started",
+              "description": "Beem Africa is telecom company that offers APIs to tons of services not limited to SMS, USSD, Number Verification, Airtime & Mobile Payments to connect with your customers easily.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -42,7 +151,115 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar"
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "SMS",
+                "permalink": "/BeemAfrica/docs/SMS"
+              }
+            },
+            {
+              "unversionedId": "OTP",
+              "id": "OTP",
+              "isDocsHomePage": false,
+              "title": "OTP",
+              "description": "",
+              "source": "@site/docs/OTP.md",
+              "sourceDirName": ".",
+              "slug": "/OTP",
+              "permalink": "/BeemAfrica/docs/OTP",
+              "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/OTP.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SMS",
+                "permalink": "/BeemAfrica/docs/SMS"
+              },
+              "next": {
+                "title": "AirTime",
+                "permalink": "/BeemAfrica/docs/AirTime"
+              }
+            },
+            {
+              "unversionedId": "SMS",
+              "id": "SMS",
+              "isDocsHomePage": false,
+              "title": "SMS",
+              "description": "",
+              "source": "@site/docs/SMS.md",
+              "sourceDirName": ".",
+              "slug": "/SMS",
+              "permalink": "/BeemAfrica/docs/SMS",
+              "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/SMS.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting started",
+                "permalink": "/BeemAfrica/docs/intro"
+              },
+              "next": {
+                "title": "OTP",
+                "permalink": "/BeemAfrica/docs/OTP"
+              }
+            },
+            {
+              "unversionedId": "Two-way-sms",
+              "id": "Two-way-sms",
+              "isDocsHomePage": false,
+              "title": "Two way SMS",
+              "description": "",
+              "source": "@site/docs/Two-way-sms.md",
+              "sourceDirName": ".",
+              "slug": "/Two-way-sms",
+              "permalink": "/BeemAfrica/docs/Two-way-sms",
+              "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/Two-way-sms.md",
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "USSD",
+                "permalink": "/BeemAfrica/docs/USSD"
+              },
+              "next": {
+                "title": "Bpay",
+                "permalink": "/BeemAfrica/docs/Bpay"
+              }
+            },
+            {
+              "unversionedId": "USSD",
+              "id": "USSD",
+              "isDocsHomePage": false,
+              "title": "USSD",
+              "description": "",
+              "source": "@site/docs/USSD.md",
+              "sourceDirName": ".",
+              "slug": "/USSD",
+              "permalink": "/BeemAfrica/docs/USSD",
+              "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/USSD.md",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AirTime",
+                "permalink": "/BeemAfrica/docs/AirTime"
+              },
+              "next": {
+                "title": "Two way SMS",
+                "permalink": "/BeemAfrica/docs/Two-way-sms"
+              }
             }
           ]
         }
@@ -56,7 +273,7 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/BeemAfrica/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/blog/blog/2019-05-30-welcome.md",
             "source": "@site/blog/2019-05-30-welcome.md",
             "title": "Welcome",
             "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
@@ -88,7 +305,7 @@
           "id": "hello-world",
           "metadata": {
             "permalink": "/BeemAfrica/blog/hello-world",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/blog/blog/2019-05-29-hello-world.md",
             "source": "@site/blog/2019-05-29-hello-world.md",
             "title": "Hello",
             "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
@@ -120,7 +337,7 @@
           "id": "hola",
           "metadata": {
             "permalink": "/BeemAfrica/blog/hola",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/blog/blog/2019-05-28-hola.md",
             "source": "@site/blog/2019-05-28-hola.md",
             "title": "Hola",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",

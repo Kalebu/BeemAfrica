@@ -1,19 +1,19 @@
 export default {
-  "title": "Beem Africa-Python client",
+  "title": "Beem Africa",
   "tagline": "beem-africa integration made easy",
   "url": "https://kalebu.github.io",
   "baseUrl": "/BeemAfrica/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/beem.ico",
   "organizationName": "kalebu",
   "projectName": "BeemAfrica",
   "themeConfig": {
     "navbar": {
-      "title": "BeemAfrica",
+      "title": "Home",
       "logo": {
         "alt": "Logo",
-        "src": "img/logo.svg"
+        "src": "img/download.png"
       },
       "items": [
         {
@@ -29,7 +29,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/kalebu/python-client",
+          "href": "https://github.com/beem-africa/python-client",
           "label": "GitHub",
           "position": "right"
         }
@@ -111,7 +111,7 @@ export default {
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/blog/"
         },
         "theme": {
           "customCss": "/home/kalebu/Work/Personal/Opensource/docs/BeemAfrica/src/css/custom.css"

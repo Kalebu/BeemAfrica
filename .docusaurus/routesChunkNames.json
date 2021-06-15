@@ -114,12 +114,40 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---beem-africa-markdown-page-393-e1a"
   },
-  "/BeemAfrica/docs-176": {
+  "/BeemAfrica/docs-ade": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---beem-africa-docs-935-94f"
+  },
+  "/BeemAfrica/docs/AirTime-5d1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---beem-africa-docs-air-time-87-b-01a"
+  },
+  "/BeemAfrica/docs/Bpay-903": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---beem-africa-docs-bpay-612-a1d"
+  },
+  "/BeemAfrica/docs/Contacts-91d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---beem-africa-docs-contactsa-05-188"
   },
   "/BeemAfrica/docs/intro-d70": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---beem-africa-docs-intro-0-e-3-0f4"
+  },
+  "/BeemAfrica/docs/OTP-014": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---beem-africa-docs-otp-321-393"
+  },
+  "/BeemAfrica/docs/SMS-306": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---beem-africa-docs-sms-253-ec7"
+  },
+  "/BeemAfrica/docs/Two-way-sms-417": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---beem-africa-docs-two-way-sms-141-2ff"
+  },
+  "/BeemAfrica/docs/USSD-00d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---beem-africa-docs-ussd-2-a-3-8d2"
   }
 }

@@ -11,8 +11,43 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "AirTime",
+              "path": "/BeemAfrica/docs/AirTime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bpay",
+              "path": "/BeemAfrica/docs/Bpay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contacts",
+              "path": "/BeemAfrica/docs/Contacts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/BeemAfrica/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OTP",
+              "path": "/BeemAfrica/docs/OTP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SMS",
+              "path": "/BeemAfrica/docs/SMS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Two-way-sms",
+              "path": "/BeemAfrica/docs/Two-way-sms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "USSD",
+              "path": "/BeemAfrica/docs/USSD",
               "sidebar": "tutorialSidebar"
             }
           ]

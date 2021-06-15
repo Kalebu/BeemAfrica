@@ -7,12 +7,54 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Getting started",
         "href": "/BeemAfrica/docs/intro"
+      },
+      {
+        "type": "link",
+        "label": "SMS",
+        "href": "/BeemAfrica/docs/SMS"
+      },
+      {
+        "type": "link",
+        "label": "OTP",
+        "href": "/BeemAfrica/docs/OTP"
+      },
+      {
+        "type": "link",
+        "label": "AirTime",
+        "href": "/BeemAfrica/docs/AirTime"
+      },
+      {
+        "type": "link",
+        "label": "USSD",
+        "href": "/BeemAfrica/docs/USSD"
+      },
+      {
+        "type": "link",
+        "label": "Two way SMS",
+        "href": "/BeemAfrica/docs/Two-way-sms"
+      },
+      {
+        "type": "link",
+        "label": "Bpay",
+        "href": "/BeemAfrica/docs/Bpay"
+      },
+      {
+        "type": "link",
+        "label": "Contacts",
+        "href": "/BeemAfrica/docs/Contacts"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/BeemAfrica/docs/intro": "tutorialSidebar"
+    "/BeemAfrica/docs/AirTime": "tutorialSidebar",
+    "/BeemAfrica/docs/Bpay": "tutorialSidebar",
+    "/BeemAfrica/docs/Contacts": "tutorialSidebar",
+    "/BeemAfrica/docs/intro": "tutorialSidebar",
+    "/BeemAfrica/docs/OTP": "tutorialSidebar",
+    "/BeemAfrica/docs/SMS": "tutorialSidebar",
+    "/BeemAfrica/docs/Two-way-sms": "tutorialSidebar",
+    "/BeemAfrica/docs/USSD": "tutorialSidebar"
   }
 }

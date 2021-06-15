@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Two-way-sms",
+  "id": "Two-way-sms",
+  "isDocsHomePage": false,
+  "title": "Two way SMS",
+  "description": "",
+  "source": "@site/docs/Two-way-sms.md",
+  "sourceDirName": ".",
+  "slug": "/Two-way-sms",
+  "permalink": "/BeemAfrica/docs/Two-way-sms",
+  "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/Two-way-sms.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "USSD",
+    "permalink": "/BeemAfrica/docs/USSD"
+  },
+  "next": {
+    "title": "Bpay",
+    "permalink": "/BeemAfrica/docs/Bpay"
+  }
+}

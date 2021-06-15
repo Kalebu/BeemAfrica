@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Contacts",
+  "id": "Contacts",
+  "isDocsHomePage": false,
+  "title": "Contacts",
+  "description": "",
+  "source": "@site/docs/Contacts.md",
+  "sourceDirName": ".",
+  "slug": "/Contacts",
+  "permalink": "/BeemAfrica/docs/Contacts",
+  "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/Contacts.md",
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bpay",
+    "permalink": "/BeemAfrica/docs/Bpay"
+  }
+}

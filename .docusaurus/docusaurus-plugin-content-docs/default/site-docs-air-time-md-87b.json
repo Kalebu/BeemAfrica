@@ -1,0 +1,26 @@
+{
+  "unversionedId": "AirTime",
+  "id": "AirTime",
+  "isDocsHomePage": false,
+  "title": "AirTime",
+  "description": "",
+  "source": "@site/docs/AirTime.md",
+  "sourceDirName": ".",
+  "slug": "/AirTime",
+  "permalink": "/BeemAfrica/docs/AirTime",
+  "editUrl": "https://github.com/Kalebu/BeemAfrica/edit/main/docs/AirTime.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OTP",
+    "permalink": "/BeemAfrica/docs/OTP"
+  },
+  "next": {
+    "title": "USSD",
+    "permalink": "/BeemAfrica/docs/USSD"
+  }
+}

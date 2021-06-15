@@ -94,12 +94,47 @@ export default [
 },
 {
   path: '/BeemAfrica/docs',
-  component: ComponentCreator('/BeemAfrica/docs','176'),
+  component: ComponentCreator('/BeemAfrica/docs','ade'),
   
   routes: [
 {
+  path: '/BeemAfrica/docs/AirTime',
+  component: ComponentCreator('/BeemAfrica/docs/AirTime','5d1'),
+  exact: true,
+},
+{
+  path: '/BeemAfrica/docs/Bpay',
+  component: ComponentCreator('/BeemAfrica/docs/Bpay','903'),
+  exact: true,
+},
+{
+  path: '/BeemAfrica/docs/Contacts',
+  component: ComponentCreator('/BeemAfrica/docs/Contacts','91d'),
+  exact: true,
+},
+{
   path: '/BeemAfrica/docs/intro',
   component: ComponentCreator('/BeemAfrica/docs/intro','d70'),
+  exact: true,
+},
+{
+  path: '/BeemAfrica/docs/OTP',
+  component: ComponentCreator('/BeemAfrica/docs/OTP','014'),
+  exact: true,
+},
+{
+  path: '/BeemAfrica/docs/SMS',
+  component: ComponentCreator('/BeemAfrica/docs/SMS','306'),
+  exact: true,
+},
+{
+  path: '/BeemAfrica/docs/Two-way-sms',
+  component: ComponentCreator('/BeemAfrica/docs/Two-way-sms','417'),
+  exact: true,
+},
+{
+  path: '/BeemAfrica/docs/USSD',
+  component: ComponentCreator('/BeemAfrica/docs/USSD','00d'),
   exact: true,
 },
 ]
