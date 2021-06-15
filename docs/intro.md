@@ -7,7 +7,9 @@ import TabItem from '@theme/TabItem';
 
 # Getting started
 
-[Beem Africa](https://beem.africa/) is telecom company that offers APIs to tons of services not limited to SMS, USSD, Number Verification, Airtime & Mobile Payments to connect with your customers easily.
+[Beem Africa](https://beem.africa/) is telecom company that offers APIs to tons of services not limited to SMS, USSD, Number Verification, Airtime & Mobile Payments to connect with your customers easily with coverage over 22 countries.
+
+![](Coverage-map-04-02.svg)
 
 This is developer based documentation focused on how to integrate Beem APIs using langauge based SDKs, For more you can have a look at [Beem-Africa-GitHub](https://github.com/beem-africa/).
 
