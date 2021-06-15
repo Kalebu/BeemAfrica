@@ -17,10 +17,10 @@ The Beem SMS API has been developed to ensure a simple interface for developers 
 ![](SMS-Infographic.png)
 
 
-Thanks to SDK all the complex process lies underneath integration have been simplified and you can use a single method to single and multiple messages just as shown in the example below;
+Thanks to SDK all the complex process lies underneath integration have been simplified and you can use a single method to send single and multiple messages just as shown in the example below;
 
 :::caution
-I'm using have already authenticated your app with the correct *access key* and *secret key*
+I'm assuming have already authenticated your app with the correct *access key* and *secret key*
 :::
 
 ## Example 1.0
